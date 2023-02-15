@@ -1,0 +1,8 @@
+7
+alligator Brutus 20 15 0
+bear Teddy 4 26 8
+giraffe Melman 0 36 0
+alligator Cranky 17 20 0
+monkey Bingo 0 15 16
+bear Boss 5 20 9
+sloth Sid 1 0 2

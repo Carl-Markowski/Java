@@ -1,0 +1,8 @@
+5 attraction Central-Park Walk the park looking for parrots
+2 gas-station Citgo Fill up the tank
+6 food Hot-Dog-Stand Gotta try a New York hot dog!
+3 attraction Empire-State-Building Visit 86th floor for bird's eye view - no parrots
+8 attraction Statue-of-Liberty Spotted the parrots!
+7 attraction Central-Park-Zoo Search zoo - cool penguins but no parrots!
+1 start Carvana Pick up a used Toyota Highlander
+4 food Los-Tacos Tacos, chips and salsa!
